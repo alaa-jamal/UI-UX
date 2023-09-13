@@ -1,6 +1,6 @@
 # UI-UX
 
-## Title of Content
+## Content
  This is my UI/UX Projects .
 
 	
