@@ -1,11 +1,11 @@
 # UI-UX
 
 ## :star2:Title of Content
-### This is my UI/UX Projects .
+#### This is my UI/UX Projects .
 
 	
 ## :star2:Technologies
-### This is technologies that useed for ui/ux projects:
+### This is technologies that used for ui/ux projects:
 * Figma
 * Balsamiq wireframes
 	
