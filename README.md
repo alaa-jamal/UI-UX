@@ -1,15 +1,15 @@
 # UI-UX
 
-## :star2:Title of Content
-#### This is my UI/UX Projects .
+## Title of Content
+ This is my UI/UX Projects .
 
 	
-## :star2:Technologies
+## Technologies :desktop_computer:
 ### This is technologies that used for ui/ux projects:
 * Figma
 * Balsamiq wireframes
 	
-## :star2:Project links
+## Project links
 
 1) [House Hunting](https://www.figma.com/file/SzI64kKql5LrnPJzlK0Ajs/House-Hunting?type=design&node-id=0-1&mode=design&t=cIAdPnFhGelKiGL4-0)
 
